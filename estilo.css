@@ -1,7 +1,8 @@
 body{
-    background: greenyellow;
+    background: grey;
 }
 p{
     font-size: 50px;
     font-family: 'Courier New';
+    color: yellowgreen;
 }
