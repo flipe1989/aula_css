@@ -1,8 +1,13 @@
 body{
-    background: grey;
+    background:rgb(94, 95, 94);
 }
 p{
     font-size: 50px;
-    font-family: 'Courier New';
-    color: yellowgreen;
+    font-family: 'Times New Roman';
+    color: rgb(122, 158, 22);
+}
+p.formato{
+    color: rgb(212, 12, 12);
+    font-size: 80 px;
+    font-family: fantasy; 
 }
